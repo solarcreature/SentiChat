@@ -22,7 +22,7 @@ A real-time chat application with sentiment analysis. Sentiment analysis is used
 npm install
 ```
 
-3. **Create a .env file** in the root  of the directory.
+3. **Create a .env file with your pusher creds** in the root  of the directory.
 
 ```ini
 
