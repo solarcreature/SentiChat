@@ -4,7 +4,7 @@ A real-time chat application with sentiment analysis. Sentiment analysis is used
 ## Technologies
 
 1. **Next.js** - Framework for building SSR React applications.
-2. **React** - A Javascript DOM rendering framwork using component based architecture.
+2. **React** - A Javascript DOM rendering framework using component based architecture.
 3. **Sentiment** - A module that uses AFINN-165 wordlist to perform analysis on text.
 4. **Pusher** - Technology for building apps with realtime needs (eg. push notifications).
 
